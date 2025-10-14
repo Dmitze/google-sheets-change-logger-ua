@@ -36,8 +36,6 @@
 
 ## 🎥 Quick Demo
 
-## 🎥 Quick Demo
-
 Приклад роботи меню та логів у Google Sheets:
 
 ![Демо](https://github.com/Dmitze/google-sheets-change-logger-ua/blob/main/1.jpg?raw=true)
